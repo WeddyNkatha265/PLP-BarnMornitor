@@ -1,4 +1,4 @@
-# BarnMonitor 
+# BarnMonitor
 
 ## Fullstack Project using Flask and React
 
