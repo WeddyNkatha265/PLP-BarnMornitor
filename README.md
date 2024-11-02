@@ -1,4 +1,4 @@
-# BarnMonitor 123456789010111213141516171819120
+# BarnMonitor 123456789010111213141516171819
 
 ## Fullstack Project using Flask and React
 
